@@ -18,30 +18,30 @@ A switch is a network device that makes connections between specific devices on 
 
 ## Router
 A router is a network device that connects multiple networks together. If a computer wants to send information to a computer on another network, then:
-![Router](Router/Router1.jpg)
 1. The information travels from the computer to the router.
-![Router](Router/Router2.jpg)
+![Router](Router/Router1.jpg)
 2. The router reads the destination address and forwards the data to the intended network router.
-![Router](Router/Router3.jpg)
+![Router](Router/Router2.jpg)
 3. Finally, the receiving router directs that information to the destination PC.
+![Router](Router/Router3.jpg)
 
 ### When to Use:
 - **IP Address:** Routers operate at the network layer (Layer 3) and use IP addresses to route data between different networks. When accessing a website or sending data over the internet, IP addresses are used to determine the data's path.
 
 ## Modem
 A modem is a device that connects your router to the internet and brings internet access to the LAN. The process is as follows:
-![Modem](Modem/Modem1.jpg)
 1. The computer sends information to the router.
-![Modem](Modem/Modem2.jpg)
+![Modem](Modem/Modem1.jpg)
 2. The router transports the information through the modem
-![Modem](Modem/Modem3.jpg)
+![Modem](Modem/Modem2.jpg)
 3. to the internet.
-![Modem](Modem/Modem4.jpg)
+![Modem](Modem/Modem3.jpg)
 4. The intended recipient modem receives the information
-![Modem](Modem/Modem5.jpg)
+![Modem](Modem/Modem4.jpg)
 5. and transports it to the intended router.
-![Modem](Modem/Modem6.jpg)
+![Modem](Modem/Modem5.jpg)
 6. Finally, the receiving router directs that information to the destination PC.
+![Modem](Modem/Modem6.jpg)
 
 ### When to Use:
 - **IP Address:** Modems work with routers to provide internet access, using IP addresses to communicate with other devices on the internet.
